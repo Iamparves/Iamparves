@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Parves and I'm a `Front-End Web Developer` based in Bangladesh and I'm learning new things everday.
+## BIO
+- ⚙️ I use daily: `.html`, `.css`, `.js`, `.svg`, `.psd`, `.ai`, `.xd`
+- 🌍 I'm mostly active in **Facebook**
+- 🌱 I’m currently learning **React**
+- 💬 Ping me about **design**, **development** and **anime** :stuck_out_tongue_closed_eyes:
+- 📫 Reach me: [Facebook](https://www.facebook.com/Iamparves/), [Email](mailto:itzparves@gmail.com/)
+- ⚡️ Fun fact: I'm a huge fan of **Anime**
 
-<!--
-**Iamparves/Iamparves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=628FDB)
+![](https://img.shields.io/badge/Editor-VS&nbsp;Code-informational?style=flat&logo=visual%20studio&logoColor=white&color=628FDB)
+![](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=white&color=628FDB)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=628FDB)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=628FDB)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=628FDB)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=628FDB)
+![](https://img.shields.io/badge/Shell-Git&nbsp;Bash-informational?style=flat&logo=git&logoColor=white&color=628FDB)
+![](https://img.shields.io/badge/Tool-Photoshop-informational?style=flat&logo=adobe%20photoshop&logoColor=white&color=628FDB)
+![](https://img.shields.io/badge/Tool-Illustrator-informational?style=flat&logo=adobe%20illustrator&logoColor=white&color=628FDB)
+![](https://img.shields.io/badge/Tool-Adobe&nbsp;XD-informational?style=flat&logo=adobe%20xd&logoColor=white&color=628FDB)
 
-Here are some ideas to get you started:
+## Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamparves&layout=compact&theme=tokyonight)](https://github.com/iamparves/github-readme-stats)
+
+[![Parves's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamparves&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/iamparves/github-readme-stats)
