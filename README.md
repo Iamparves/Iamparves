@@ -8,12 +8,14 @@ My name is Parves and I'm a `Front-End Web Developer` based in Bangladesh and I'
 - 📫 Reach me: [Facebook](https://www.facebook.com/Iamparves/), [Email](mailto:itzparves@gmail.com/)
 - ⚡️ Fun fact: I'm a huge fan of **Anime**
 
-## Technologies & Tools
+## Languages, Frameworks & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=628FDB)
 ![](https://img.shields.io/badge/Editor-VS&nbsp;Code-informational?style=flat&logo=visual%20studio&logoColor=white&color=628FDB)
 ![](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=white&color=628FDB)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=628FDB)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=628FDB)
+![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=628FDB)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=628FDB)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=628FDB)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=628FDB)
 ![](https://img.shields.io/badge/Shell-Git&nbsp;Bash-informational?style=flat&logo=git&logoColor=white&color=628FDB)
