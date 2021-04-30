@@ -1,9 +1,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Parves and I'm a `Front-End Web Developer` based in Bangladesh and I'm learning new things everday.
+My name is Parves and I'm a Full Stack web developer. I'm a hardworking, enthusiastic learner and I'm always looking for opportunities to learn new technologies. 
 ## BIO
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `.svg`, `.psd`, `.ai`, `.xd`
 - 🌍 I'm mostly active in **Facebook**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Mongo DB**
 - 💬 Ping me about **design**, **development** and **anime** :stuck_out_tongue_closed_eyes:
 - 📫 Reach me: [Facebook](https://www.facebook.com/Iamparves/), [Email](mailto:itzparves@gmail.com/)
 - ⚡️ Fun fact: I'm a huge fan of **Anime**
