@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Parves and I'm a Full Stack web developer. I'm a hardworking, enthusiastic learner and I'm always looking for opportunities to learn new technologies. 
+My name is Parves and I'm a Full Stack Web Developer. I'm a hardworking, enthusiastic learner and I'm always looking for opportunities to learn new technologies. 
 ## BIO
 - ⚙️ I use daily: `.html`, `.css`, `.js`
 - 🌍 I'm mostly active in **Facebook**
