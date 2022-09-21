@@ -3,7 +3,7 @@ My name is Parves and I'm a Full Stack web developer. I'm a hardworking, enthusi
 ## BIO
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `.svg`, `.psd`, `.ai`, `.xd`
 - 🌍 I'm mostly active in **Facebook**
-- 🌱 I’m currently learning **Mongo DB**
+- 🌱 I’m currently learning **Node.js, Mongo DB**
 - 💬 Ping me about **design**, **development** and **anime** :stuck_out_tongue_closed_eyes:
 - 📫 Reach me: [Facebook](https://www.facebook.com/Iamparves/), [Email](mailto:itzparves@gmail.com/)
 - ⚡️ Fun fact: I'm a huge fan of **Anime**
