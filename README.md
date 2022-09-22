@@ -2,7 +2,6 @@
 My name is Parves and I'm a Full Stack Web Developer. I'm a hardworking, enthusiastic learner and I'm always looking for opportunities to learn new technologies. 
 ## BIO
 - ⚙️ I use daily: `.html`, `.css`, `.js`
-- 🌍 I'm mostly active in **Facebook**
 - 🌱 I’m currently learning **Node.js, Mongo DB**
 - 💬 Ping me about **design**, **development** and **anime** :stuck_out_tongue_closed_eyes:
 - 📫 Reach me: [Facebook](https://www.facebook.com/Iamparves/), [Email](mailto:itzparves@gmail.com/)
