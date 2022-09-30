@@ -24,6 +24,8 @@ My name is Parves and I'm a Full Stack Web Developer. I'm a hardworking, enthusi
 
 ## Overview
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamparves&layout=compact&theme=tokyonight)](https://github.com/iamparves/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamparves&layout=compact)](https://github.com/iamparves/github-readme-stats)
 
-[![Parves's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamparves&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/iamparves/github-readme-stats)
+[![Parves's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamparves&count_private=true&show_icons=true)](https://github.com/iamparves/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamparves&" alt="iamparves" /></p>
