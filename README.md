@@ -1,8 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Parves and I'm a Full Stack Web Developer. I'm a hardworking, enthusiastic learner and I'm always looking for opportunities to learn new technologies. 
+My name is Parves and I'm a Frontend Web Developer. I'm a hardworking, enthusiastic learner and I'm always looking for opportunities to learn new technologies. 
 ## Bio
 - ⚙️ I use daily: `.html`, `.css`, `.js`
-- 🌱 I’m currently learning **Node.js, Mongo DB**
+- 🌱 I’m currently learning **Next.js**
 - 💬 Ping me about **design**, **development** and **anime** :stuck_out_tongue_closed_eyes:
 - 📫 Reach me: [Facebook](https://www.facebook.com/Iamparves/), [Email](mailto:itzparves@gmail.com/)
 - ⚡️ Fun fact: I'm a huge fan of **Anime**
