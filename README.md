@@ -2,7 +2,7 @@
 My name is Parves and I'm a Frontend Web Developer from **Bangladesh**
 ## Bio
 - ⚙️ I use daily: `.html`, `.css`, `.js`
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js, Prisma**
 - 💬 Ping me about **Web Design** / **Development**
 - 📫 Reach me: [Facebook](https://www.facebook.com/Iamparves/), [Email](mailto:itzparves@gmail.com/)
 
