@@ -1,10 +1,11 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Parves and I'm a Frontend Web Developer from **Bangladesh**
+My name is Parves and I'm a Web Developer from **Bangladesh**
 ## Bio
 - ⚙️ I use daily: `.html`, `.css`, `.js`
-- 🌱 I’m currently learning **Next.js, Prisma**
+- 🌱 I’m currently learning **Next.js, PWA**
 - 💬 Ping me about **Web Design** / **Development**
 - 📫 Reach me: [Facebook](https://www.facebook.com/Iamparves/), [Email](mailto:itzparves@gmail.com/)
+
 
 ## Overview
 
